@@ -1,6 +1,6 @@
 #What the F*** is this?
 The goal of this project is document my learning on Test Driven Development. So far, my knowledge about that topic comes mostly from [Clean Code Lesson 4 - Uncle bob](https://www.youtube.com/watch?v=58jGpV2Cg50).
-One of the most important tips He told on that talk was: "Don't learn it on your work environment".
+One of the most important tips He told on that talk was: "If you decide that you will do Test Driven Development in your work, you will fail".
 
 So here I am, trying to learn on my spare time. Lets see how that goes.
 
